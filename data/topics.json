@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Learn Batting",
+        "img": "https://prod-media-eng.dhakatribune.com/uploads/2019/09/afif-1568402896198.jpg",
+        "des": "In cricket, batting is the act or skill of hitting the ball with a bat to score runs."
+    },
+    {
+        "id": "02",
+        "name": "Learn Bowling",
+        "img": "https://admin.dailycricket.com.bd/storage/uploads/1557998308-Mash.jpg",
+        "des": "Bowling, in cricket, is the action of propelling the ball toward the wicket defended by a batter."
+    },
+    {
+        "id": "03",
+        "name": "Learn Wicket-Keeping",
+        "img": "https://static.toiimg.com/photo/msid-85972901/85972901.jpg",
+        "des": "The wicket-keeper in the sport of cricket is the player on the fielding side who stands behind the wicket."
+    },
+    {
+        "id": "04",
+        "name": "Learn Dribbling",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-da2fa1ff63e4facde0b65b983bf663cf-lq",
+        "des": "Dribbling is the art of moving the ball past your opponent without allowing him to tackle you."
+    },
+    {
+        "id": "05",
+        "name": "Learn Defending",
+        "img": "https://cdn.vox-cdn.com/thumbor/7q1TdvhTRuwMOj-qAHVDJmKm7ZA=/0x0:3441x2381/1200x800/filters:focal(1815x484:2365x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69510587/1323868134.0.jpg",
+        "des": "The team that does not have possession of the ball is on defense."
+    },
+    {
+        "id": "06",
+        "name": "Learn Goal-Keeping",
+        "img": "https://i.pinimg.com/736x/f0/30/71/f030710180e2287a8b3bcdf989039506.jpg",
+        "des": "The goalkeeper is positioned in front of the goal who prevent the ball from crossing the goal line."
+    }
+]
